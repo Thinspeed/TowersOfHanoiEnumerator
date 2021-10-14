@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TowersOfHanoiEnumerator", "TowersOfHanoiEnumerator.csproj", "{D339E373-FF8D-4104-AECC-C67D26290915}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D339E373-FF8D-4104-AECC-C67D26290915}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D339E373-FF8D-4104-AECC-C67D26290915}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D339E373-FF8D-4104-AECC-C67D26290915}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D339E373-FF8D-4104-AECC-C67D26290915}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B44FC123-A732-4FBD-8D12-B86FABE3F8D8}
+	EndGlobalSection
+EndGlobal
